@@ -4,6 +4,8 @@
 Problem Statement:
 
 In this assignment, you are tasked with writing Prolog predicates to analyze customer orders and provide insights into their purchasing behavior. The goal is to answer specific questions about the customers, their orders, and assist in identifying boycott items along with their alternatives.
+
+
 <br>
 
 Facts (data.pl file):
